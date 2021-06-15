@@ -2,7 +2,7 @@
 
 namespace AbstractFactoryPattern
 {
-    public class IGH :IHotelSystem<Hotel>
+    public class IGH :IHotelSystem<HotelBaseSystem>
     {
         public void Find(int Id)
         {

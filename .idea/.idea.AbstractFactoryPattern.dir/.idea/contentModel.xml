@@ -8,11 +8,12 @@
       <e p=".gitignore" t="Include" />
       <e p="AbstractFactoryPattern.csproj" t="IncludeRecursive" />
       <e p="Hilton.cs" t="Include" />
-      <e p="Hotel.cs" t="Include" />
+      <e p="HotelBaseSystem.cs" t="Include" />
       <e p="HotelFactory.cs" t="Include" />
       <e p="IGH.cs" t="Include" />
       <e p="IHotelFactory.cs" t="Include" />
       <e p="IHotelSystem.cs" t="Include" />
+      <e p="Local.cs" t="Include" />
       <e p="Program.cs" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive">

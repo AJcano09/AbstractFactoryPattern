@@ -2,7 +2,7 @@
 
 namespace AbstractFactoryPattern
 {
-    public class Hilton:IHotelSystem<Hotel>
+    public class Hilton:IHotelSystem<HotelBaseSystem>
     {
         public void Find(int Id)
         {
