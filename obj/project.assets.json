@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETCoreApp,Version=v5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETCoreApp,Version=v5.0": []
   },
   "packageFolders": {
     "/home/acano/.nuget/packages/": {}
@@ -20,17 +20,16 @@
       "outputPath": "/home/acano/repo/AbstractFactoryPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/acano/.nuget/NuGet/NuGet.Config"
+        "/home/acano/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net50"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp5.0": {
           "projectReferences": {}
         }
       },
@@ -41,8 +40,7 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp5.0": {
         "imports": [
           "net461",
           "net462",
