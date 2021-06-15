@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbtractFactory
+namespace AbstractFactoryPattern
 {
     public class IGH :IHotelSystem<Hotel>
     {
